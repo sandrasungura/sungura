@@ -1,3 +1,4 @@
-baseURL: ""
+baseURL: "sungura/"
 languageCode: "en-us"
 title: "Sungura"
+canonifyURLs: true
