@@ -1,0 +1,46 @@
+{{ partial "header" . }}
+
+
+<!-- Home Section -->
+
+<section id="home">
+     <div class="container">
+          <div class="row">
+               <div class="col-md-12 col-sm-12">
+                    <h2>The creative web & mobile studio. we are young designers and focused on brand identity, web development and social marketing.</h2>
+                    <hr>
+               </div>
+ 
+          </div>
+     </div>
+ </section>
+
+<!-- Portfolio Section -->
+
+<section id="portfolio">
+     <div class="container">
+          <div class="row">
+
+               {{ range first 10 .Site.RegularPages }}
+                    <div class="col-md-4 col-sm-6">
+                         <a href="{{ .Permalink }}">
+                              <div class="portfolio-thumb">
+                                   <img src="/images/{{ .Param "image" }}" class="img-responsive" alt="Portfolio">
+                                        <div class="portfolio-overlay">
+                                             <div class="portfolio-item">
+                                                  <h3>{{ .Title }}</h3>
+                                             </div>
+                                        </div>
+                              </div>
+                         </a>
+                    </div>
+               {{ end }}
+
+               <div class="col-md-12 col-sm-12 text-center">
+                    <h3>hello, if you interest working together. just send message <a href="contact.html">contact page</a></h3>
+               </div>
+
+          </div>
+     </div>
+</section>
+{{ partial "footer" . }}

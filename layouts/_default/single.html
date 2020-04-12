@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<!-- Blog Single Post Section -->
+
+<section id="blog-single-post">
+     <div class="container">
+          <div class="row">
+               <div class="col-md-offset-1 col-md-10 col-sm-12">
+                    <div class="blog-single-post-thumb">
+                        <div class="blog-post-image">
+                            <img src="/images/{{ .Param "image" }}" class="img-responsive" alt="{{ .Title }}">
+                        </div>
+
+                        <div class="blog-post-des">
+                            {{ .Content }}
+                        </div>
+                    </div>
+               </div>
+          </div>
+     </div>
+</section>
+
+{{ partial "footer" . }}

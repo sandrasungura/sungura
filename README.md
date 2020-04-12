@@ -1,2 +1,2 @@
-# portolfio
+# portfolio
 Graphic Designer 
