@@ -5,7 +5,7 @@ image: Portada_Cuadrada.jpg
 
 # Cover Design
 
-Hola ! Esta es la portada final [alt text](/images/Portada.jpg "Logo Title Text 1")
+Hola ! Esta es la portada final (/images/Portada.jpg "Logo Title Text 1")
 
 # Sketches
 
