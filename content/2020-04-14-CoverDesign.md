@@ -3,6 +3,22 @@ title: Cover design
 image: Portada_Cuadrada.jpg
 ---
 
+---
+title: Cover design
+image: Portada_Cuadrada.jpg
+---
+
+---
+title: Cover design
+image: Portada_Cuadrada.jpg
+---
+
+---
+title: Cover design
+image: Portada_Cuadrada.jpg
+---
+
+
 # Cover Design
 
 Hola ! Esta es la portada final (/images/Portada.jpg "Logo Title Text 1")
