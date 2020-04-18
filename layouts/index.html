@@ -21,7 +21,7 @@
      <div class="container">
           <div class="row">
 
-               {{ range first 10 .Site.RegularPages }}
+               {{ range where .Site.RegularPages "Section" "post" }}
                     <div class="col-md-4 col-sm-6">
                          <a href="{{ .Permalink }}">
                               <div class="portfolio-thumb">
