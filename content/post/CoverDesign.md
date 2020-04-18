@@ -1,22 +1,22 @@
 ---
-title: Cover design
+title: Diseño de portada
 image: Portada_Cuadrada.jpg
 date: "2020-04-14"
 draft: false
 ---
 
-Cover design
+Diseño de portada
 
-![Cover design](/images/Portada.jpg "Cover design")
+![Diseño de portada](/images/Portada.jpg "Cover design")
 
-Hi ! These are my sketches
+¡Hola! Estos son mis bocetos
 
-![Sketches](/images/Sketches.png "Sketches")
+![Bocetos](/images/Sketches.png "Bocetos")
 
-Hi again! What are those? (my renders hahahha)
+¡Hola de nuevo! What are those? (mis renders hahahha)
 
 ![Renders1](/images/Renders1.jpg "Renders1")
 
 ![Renders2](/images/Renders2.jpg "Renders2")
 
-Bye! Thank you for viewing my project!
+¡Adiós! ¡Gracias por pasarte por mi proyecto!

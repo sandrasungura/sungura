@@ -1,9 +1,26 @@
-baseURL: "https://sandrasungura.github.io/sungura/"
-languageCode: "en-us"
+# Site title
 title: "Sungura"
-canonifyURLs: true
+# Site root host
+baseURL: "https://sandrasungura.github.io/sungura/"
+
+# Permalink format
 permalinks:
   post: "/post/:year/:month/:title/"
   top: "/:filename/"
+
+# i18n
+languageCode: "es-ES"
+DefaultContentLanguage: es
+languages:
+  es:
+    languageName: Español
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+
+# FIX
+canonifyURLs: true
+
 minify:
   minifyOutput: true

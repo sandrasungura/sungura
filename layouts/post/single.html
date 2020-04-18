@@ -7,13 +7,23 @@
           <div class="row">
                <div class="col-md-offset-1 col-md-10 col-sm-12">
                     <div class="blog-single-post-thumb">
-                        <div class="blog-post-image">
-                            <img src="/images/{{ .Param "image" }}" class="img-responsive" alt="{{ .Title }}">
-                        </div>
+                         
+                         <div class="blog-post-title">
+                              <h2>{{ .Title }}</h2>
+                         </div>
+                        
+                         {{ if .Page.Params.showImage }}
+                              <div class="blog-post-image">
+                                   <img src="/images/{{ .Param "image" }}" class="img-responsive" alt="{{ .Title }}">
+                              </div>
+                         {{ end }}
+
+                         <hr>
 
                         <div class="blog-post-des">
-                            {{ .Content }}
+                              {{ .Content }}
                         </div>
+
                     </div>
                </div>
           </div>

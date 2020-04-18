@@ -1,19 +1,17 @@
 {{ partial "header" . }}
 
-
-
 <!-- About Section -->
 
 <section id="about">
-     <div class="container">
-          <div class="row">
-
-               <div class="col-md-offset-1 col-md-10 col-sm-12">
-                    <div class="section-title">
-                         <h3>Sandra Muñoz</h3>
-                         <h2>Hello! I am a graphic designer and animator based in Madrid, Spain.</h2>
-                    </div>
-
+<div class="container">
+    <div class="row">
+        <div class="col-md-offset-1 col-md-10 col-sm-12">
+            <div class="section-title">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</div>
 </section>
 
 {{ partial "footer" . }}

@@ -1,0 +1,1 @@
+## Hello! I am Sandra Muñoz, a graphic designer and animator based in Madrid, Spain.
