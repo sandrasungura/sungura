@@ -1,9 +1,9 @@
 ---
 title: Cover design
 image: Portada_Cuadrada.jpg
-showImage: false
 date: "2020-04-14"
 draft: false
+showImage: false
 ---
 
 Cover design

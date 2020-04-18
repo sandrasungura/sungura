@@ -3,6 +3,7 @@ title: Diseño de portada
 image: Portada_Cuadrada.jpg
 date: "2020-04-14"
 draft: false
+showImage: false
 ---
 
 Diseño de portada
