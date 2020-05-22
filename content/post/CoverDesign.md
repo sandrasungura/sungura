@@ -1,5 +1,5 @@
 ---
-title: Maquetación y diseño gráfico de publicacación científica
+title: Diseño de portada
 image: Portada_Cuadrada.jpg
 date: "2020-04-14"
 draft: false
