@@ -8,10 +8,10 @@ showImage: false
 
 Ilustración realizada con Illustrator para la empresa E-lixir. Este proyecto surje de la necesitad de una imagen que reflejase el trabajo que realizan en la empresa, para usarlas en redes sociales y páginas web. Programas utilizados: Illustrator.
 
-![Diseño de portada](/images/Ilustracion1.jpg "Cover design")
+![Ilustracion1](/images/Ilustracion1.jpg "Ilustracion1")
 
-![Bocetos](/images/Ilustracion2.jp "Bocetos")
+![Ilustracion2](/images/Ilustracion2.jp "Ilustracion2")
 
-![Diseño de portada](/images/Ilustracion3.jpg "Cover design")
+![Ilustracion3](/images/Ilustracion3.jpg "Ilustracion3")
 
-![Bocetos](/images/Ilustracion4.jp "Bocetos")
+![Ilustracion4](/images/Ilustracion4.jp "Ilustracion4")
