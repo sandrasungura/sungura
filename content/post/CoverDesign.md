@@ -1,6 +1,6 @@
 ---
 title: Diseño editorial
-image: Portada_Cuadrada.jpg
+image: Portada_Cuadrada2.jpg
 date: "2020-04-14"
 draft: false
 showImage: false
@@ -9,13 +9,13 @@ showImage: false
 Diseño editorial para publicación científica a nivel internacional. El proyecto consitía en el diseño gráfico; realización de imágenes, tablas, maquetación y diseño de portada del escrito. 
 Programas utilizados: InDesign, PowerPoint, 3DSMax, Vray, Photoshop e Illustrator.
 
-![Diseño de portada](/images/Portada.jpg "Cover design")
+![Diseño de portada](/images/Portada2.jpg "Cover design")
 
 
 
 Bocetos realizados durante el proceso de producción.
 
-![Bocetos](/images/Sketches.png "Bocetos")
+![Bocetos](/images/Sketches2.png "Bocetos")
 
 
 
