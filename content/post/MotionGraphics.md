@@ -8,7 +8,7 @@ showImage: false
 
 Animaciones para una marca de productos protéicos destinada a deportistas. Su función era promocionar dichos productos en sus redes sociales. Programas empleados: Illustrator, After Effects y Media Encoder.
 
-{{< vimeo 422008129 >}}
+![MotionGraphics](/images/ProteinGIF3.gif "ProteinGIF3")
 
-{{< vimeo 422007983 >}}
+![MotionGraphics](/images/ProteinGIF1.gif "ProteinGIF1")
 
