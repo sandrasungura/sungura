@@ -11,6 +11,6 @@ Programas utilizados: Cinema4D y RealFlow.
 
 
 
-![Video_Motion3D](/images/FHD_S.mp4 "Video_Motion3D")
+![Video_Motion3D](/images/FHD_S_GIF.gif "Video_Motion3D")
 
 
