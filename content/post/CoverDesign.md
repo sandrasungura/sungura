@@ -9,7 +9,10 @@ showImage: false
 Diseño editorial para publicación científica a nivel internacional. El proyecto consitía en el diseño gráfico; realización de imágenes, tablas, maquetación y diseño de portada del escrito. 
 Programas utilizados: InDesign, PowerPoint, 3DSMax, Vray, Photoshop e Illustrator.
 
+
 ![Diseño de portada](/images/Portada2.jpg "Cover design")
+
+
 
 
 
