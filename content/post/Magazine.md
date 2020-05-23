@@ -1,5 +1,5 @@
 ---
-title: Diseño Editorial
+title: Diseño Editorial Revista
 image: Portada_Revista.jpg
 date: "2020-04-14"
 draft: false
