@@ -10,8 +10,8 @@ Ilustración realizada con Illustrator para la empresa E-lixir. Este proyecto su
 
 ![Ilustracion1](/images/Ilustracion1.jpg "Ilustracion1")
 
-![Ilustracion2](/images/Ilustracion2.jp "Ilustracion2")
+![Ilustracion2](/images/Ilustracion2.jpg "Ilustracion2")
 
 ![Ilustracion3](/images/Ilustracion3.jpg "Ilustracion3")
 
-![Ilustracion4](/images/Ilustracion4.jp "Ilustracion4")
+![Ilustracion4](/images/Ilustracion4.jpg "Ilustracion4")
