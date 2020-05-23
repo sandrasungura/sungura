@@ -9,8 +9,7 @@ showImage: false
 Lettering animado, proyecto de motion graphics realizado en 3D.
 Programas utilizados: Cinema4D y RealFlow.
 
+{{< vimeo 343087232 >}}
 
-
-![Video_Motion3D](/images/FHD_S_GIF.gif "Video_Motion3D")
 
 
