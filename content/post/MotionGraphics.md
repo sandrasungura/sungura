@@ -6,9 +6,11 @@ draft: false
 showImage: false
 ---
 
-Animaciones para una marca de productos protéicos destinada a deportistas. Su función era promocionar dichos productos en sus redes sociales. Programas empleados: Illustrator, After Effects y Media Encoder.
+Animaciones diseñadas para una marca de productos protéicos cuyo público objetivo son deportistas. Su función era promocionar dichos productos en sus redes sociales. Programas empleados: Illustrator, After Effects y Media Encoder.
 
 ![MotionGraphics](/images/ProteinGIF3.gif "ProteinGIF3")
 
 ![MotionGraphics](/images/ProteinGIF1.gif "ProteinGIF1")
 
+
+¡Gracias por pasarte por mi proyecto!
