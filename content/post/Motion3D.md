@@ -12,4 +12,7 @@ Programas utilizados: Cinema4D y RealFlow.
 {{< vimeo 343087232 >}}
 
 
+¡Gracias por pasarte por mi proyecto!
+
+
 
