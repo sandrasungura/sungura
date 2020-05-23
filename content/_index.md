@@ -1,1 +1,1 @@
-## ¡Hola! Soy Sandra Muñoz, diseñadora gráfica y animadora en Madrid
+## ¡Hola! Soy Sandra Muñoz, diseñadora gráfica y animadora de Madrid.
