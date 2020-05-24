@@ -2,7 +2,16 @@
 type: about
 title: About me
 ---
+<div style="align: center; margin-bottom:4%;">
+<img src="/images/yo.png" alt="Sandra" >
+</div>
 
-### Sandra Muñoz
+<p style="font-weight: bold;">
+Sandra Muñoz
+</p>
 
-<h4>Hello! I am a graphic designer and animator based in Madrid, Spain</h4>
+<div class="textabout">
+<p>
+Hi! I’m a designer and animator from Madrid. I specialize in graphic design and interface, I also make animations and motion graphics. I also defend myself with Wordpress at intermediate level. I was born in Madrid 25 years ago, and my hobbies are painting, video games, photography and sport.
+</p>
+</div>
