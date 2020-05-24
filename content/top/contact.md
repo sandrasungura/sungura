@@ -4,6 +4,6 @@ title: Contacto
 ---
 
 <div class=".imgcontact">
-<img src="send140px.gif" alt="email" >
+<img src="/images/send140px.gif" alt="email" >
 </div>
 ### ¿Quieres saber más? Contáctame :)
