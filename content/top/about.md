@@ -6,11 +6,9 @@ title: Sobre mi
 <img src="/images/yo.png" alt="Sandra" >
 </div>
 
-<div class="textabouttitle">
-<p>
+<p style="font-weight: bold;">
 Sandra Muñoz
 </p>
-</div>
 
 <div class="textabout">
 <p>
