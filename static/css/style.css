@@ -435,7 +435,10 @@ a:hover, a:active, a:focus {
   background: #000;
 }
 
-
+.imgcontact {
+  border-radius: 50%;
+	align: center;
+}
 
 /*---------------------------------------
    Blog section              
