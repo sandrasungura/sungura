@@ -3,5 +3,7 @@ type: contact
 title: Contacto
 ---
 
-<img src="send140px.gif" alt="email" class=".imgcontact">
+<div class=".imgcontact">
+<img src="send140px.gif" alt="email" >
+</div>
 ### ¿Quieres saber más? Contáctame :)
