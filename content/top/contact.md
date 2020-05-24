@@ -9,5 +9,5 @@ title: Contacto
 
 ¿Quieres saber más? Contáctame :)
 
-sandra.m.revilla@gmail.com
+email: sandra.m.revilla@gmail.com
 
