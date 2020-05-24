@@ -3,4 +3,4 @@ type: contact
 title: Contacto
 ---
 
-### Página de contacto
+### ¿Quieres saber más? Contáctame :)
