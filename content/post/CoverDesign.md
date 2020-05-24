@@ -10,7 +10,7 @@ Diseño editorial para publicación científica a nivel internacional. El proyec
 Programas utilizados: InDesign, PowerPoint, 3DSMax, Vray, Photoshop e Illustrator.
 
 <div style="margin-bottom: 15%;">
-![Diseño de portada](/images/Portada2.jpg "Cover design")
+<img src="/images/Portada2.jpg" alt="Cover design">
 </div>
 
 
@@ -21,10 +21,10 @@ Bocetos realizados durante el proceso de producción.
 
 
 Muestra de renders exportados para probar diferentes arquitecturas y perspectivas.
-<div style="margin-bottom: 15%;">
-![Renders1](/images/Renders1.jpg "Renders1")
 
-![Renders2](/images/Renders2.jpg "Renders2")
+<div style="margin-bottom: 15%;">
+<img src="/images/Renders1.jpg" alt="Renders">
+<img src="/images/Renders2.jpg" alt="Renders">
 </div>
 
 
