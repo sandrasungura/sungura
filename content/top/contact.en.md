@@ -1,6 +1,6 @@
 ---
 type: contact
-title: Contacto
+title: Contact
 ---
 
 <div style="align: center; margin-bottom:4%;">
