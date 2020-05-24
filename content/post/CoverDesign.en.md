@@ -1,23 +1,27 @@
 ---
-title: Cover design
-image: Portada_Cuadrada.jpg
+title: Editorial design publication
+image: Portada_Cuadrada2.jpg
 date: "2020-04-14"
 draft: false
 showImage: false
 ---
 
-Cover design
+Editorial design for international scientific publication. The project consisted of making images, tables, layout and the cover design of the writing.
+Software: Indesign, Powerpoint, 3DSMax, Vray, Photoshop and Illustrator.
 
-![Cover design](/images/Portada.jpg "Cover design")
 
-Hi ! These are my sketches
+![Portada](/images/Portada2.jpg "Cover Design")
 
-![Sketches](/images/Sketches.png "Sketches")
 
-Hi again! What are those? (my renders hahahha)
+Sketches made during the production process.
 
-![Renders1](/images/Renders1.jpg "Renders1")
+![Bocetos](/images/Sketches2.png "Sketches")
 
-![Renders2](/images/Renders2.jpg "Renders2")
 
-Bye! Thank you for viewing my project!
+
+Sample of exported renders to test different architectures and perspectives.
+![Renders](/images/Renders1.jpg "Renders")
+![Renders](/images/Renders2.jpg "Renders")
+
+
+Thanks for visiting my portfolio!
