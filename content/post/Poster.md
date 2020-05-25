@@ -1,7 +1,7 @@
 ---
 title: Diseño gráfico cartel
 image: Portada_Cartel.jpg
-date: "2020-04-14"
+date: "2016-04-14"
 draft: false
 showImage: false
 ---
