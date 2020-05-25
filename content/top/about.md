@@ -1,6 +1,6 @@
 ---
 type: about
-title: Sobre mi
+title: Sobre mí
 ---
 <div style="align: center; margin-bottom:4%;">
 <img src="/images/yo.png" alt="Sandra" >
