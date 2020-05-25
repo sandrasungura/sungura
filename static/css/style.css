@@ -310,22 +310,6 @@ a:hover, a:active, a:focus {
 }
 
 
-.textabout
- 	color: rgb(68, 68, 68);
-    font-size: 15px;
-    font-weight: 300;
-    line-height: 26px;
-    letter-spacing: 0.2px;
-}
-
-.textabouttitle
- 	color: rgb(68, 68, 68);
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 26px;
-    letter-spacing: 0.2px;
-}
-
 /*---------------------------------------
    Portfolio section              
 -----------------------------------------*/
@@ -455,21 +439,7 @@ a:hover, a:active, a:focus {
 	align: center;
 }
 
-.textcontact
- 	color: rgb(68, 68, 68);
-    font-size: 15px;
-    font-weight: 300;
-    line-height: 26px;
-    letter-spacing: 0.2px;
-}
 
-.textcontacttitle
- 	color: rgb(68, 68, 68);
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 26px;
-    letter-spacing: 0.2px;
-}
 
 /*---------------------------------------
    Blog section              
