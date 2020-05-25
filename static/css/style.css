@@ -452,6 +452,7 @@ a:hover, a:active, a:focus {
 .imgcontact {
   border-radius: 50%;
 	align: center;
+	margin-bottom: 10%;
 }
 
 .textcontact
