@@ -7,10 +7,6 @@ title: Contacto
 <img src="/images/send140px.gif" alt="email" >
 </div>
 
-<p class="textcontacttitle">
-Contáctame :)
- </p>
-
-<p class="textcontact">
-email: sandra.m.revilla@gmail.com
- </p>
+<address>
+Written by <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
+</address>
