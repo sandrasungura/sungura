@@ -8,5 +8,5 @@ title: Contacto
 </div>
 
 <address>
-Written by <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
+<a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
 </address>
