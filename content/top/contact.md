@@ -8,7 +8,7 @@ title: Contacto
 </div>
 
 <p class="textcontacttitle">
-Contact me :)
+Contáctame :)
  </p>
 
 <p class="textcontact">
