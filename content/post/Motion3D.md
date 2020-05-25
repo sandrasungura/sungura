@@ -2,7 +2,7 @@
 title: Motion graphics 3D
 image: Portada_Motion3D.jpg
 date: "2020-04-14"
-draft: false
+draft: true
 showImage: false
 ---
 
