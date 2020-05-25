@@ -1,7 +1,7 @@
 ---
 title: Graphic design poster
 image: Portada_Cartel.jpg
-date: "2020-04-14"
+date: "2017-04-14"
 draft: false
 showImage: false
 ---
