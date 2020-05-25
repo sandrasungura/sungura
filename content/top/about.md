@@ -12,6 +12,6 @@ Sandra Muñoz
 
 <div class="textabout">
 <p>
-¡Hola! Soy diseñadora y animadora natural de Madrid. Estoy especializada en diseño gráfico y de interfaz, igualmente realizo animaciones y motion graphics. También me defiendo con WordPress a nivel intermedio. Nací en Madrid hace 25 años, y mis pasatiempos son la pintura, los videojuegos, la fotografía y el deporte.
+¡Hola! Soy diseñadora y animadora natural de Madrid. Estoy especializada en diseño gráfico y de interfaz, igualmente realizo animaciones y motion graphics. También manejo WordPress a nivel intermedio. Nací en Madrid en 1995, y mis pasatiempos son la pintura, los videojuegos, la fotografía y el deporte.
 </p>
 </div>
