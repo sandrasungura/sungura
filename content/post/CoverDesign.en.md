@@ -1,7 +1,7 @@
 ---
 title: Editorial design publication
 image: Portada_Cuadrada2.jpg
-date: "2020-04-14"
+date: "2019-04-14"
 draft: false
 showImage: false
 ---
