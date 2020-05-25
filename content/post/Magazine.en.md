@@ -1,7 +1,7 @@
 ---
 title: Editorial design magazine
 image: Portada_Revista.jpg
-date: "2020-04-14"
+date: "2018-04-14"
 draft: false
 showImage: false
 ---
