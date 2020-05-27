@@ -11,7 +11,7 @@ title: Contacto
 <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
 </address>
 
-<div style="align: center;">
+
 <div class="container">
   <form method="post" action="mailto:sandra.m.revilla@gmail.com >
 
@@ -23,5 +23,4 @@ title: Contacto
 
 <input type="submit" value="Send Email" /> 
 </form>
-</div>
 </div>
