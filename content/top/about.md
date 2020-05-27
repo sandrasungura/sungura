@@ -6,7 +6,7 @@ title: Sobre mí
 <img src="/images/yo.png" alt="Sandra" >
 </div>
 
-<h1 style="font-weight: semi-bold; font-size: 18px">
+<h1 style="font-weight: medium; font-size: 18px; color: rgb(104, 195, 206);">
 Sandra Muñoz
 </h1>
 
@@ -19,7 +19,7 @@ Sandra Muñoz
 <img src="/images/sungura.gif" alt="Sandra" >
 </div>
 
-<p style="font-size: 18px">
+<p style="font-size: 18px; color: rgb(104, 195, 206);">
 ¿Por qué "Sungura"?
 </p>
 
