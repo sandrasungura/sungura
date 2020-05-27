@@ -16,7 +16,7 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
 -->
 
 
-<div class="container" class="section-title">
+<div class="container">
   <form method="post" action="mailto:sandra.m.revilla@gmail.com">
 
     <label for="fname">Nombre</label>
