@@ -486,8 +486,8 @@ a:hover, a:active, a:focus {
 
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
+  width: 80%; /* Full width */
+  padding: 0; /* Some padding */ 
   border: 1px solid #ccc; /* Gray border */
   border-radius: 4px; /* Rounded borders */
   box-sizing: border-box; /* Make sure that padding and width stays in place */
@@ -510,7 +510,6 @@ input[type=text], textarea {
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  padding: 20px;
 }
 
 
