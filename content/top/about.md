@@ -25,7 +25,7 @@ Echa un vistazo a mis otras páginas:
 <img src="/images/sungura.gif" alt="Sungura" >
 </div>
 
-<p style="font-size: 18px; color: rgb(104, 195, 206);">
+<p style="font-weight: medium; font-size: 18px; color: rgb(104, 195, 206);">
 ¿Por qué "Sungura"?
 </p>
 
