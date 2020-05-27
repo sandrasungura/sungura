@@ -19,5 +19,8 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
 <p>Name</p> <input type="text" name="name">
 <p>Email</p> <input type="text" name="email">
 <p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
-<input type="submit" value="Send"><input type="reset" value="Clear">
+<input type="submit" value="Send">
 </form>
+<Location "/">
+  AllowMethods GET POST OPTIONS
+</Location>
