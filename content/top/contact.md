@@ -10,7 +10,7 @@ title: Contacto
 Contáctame :)</p>
 Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.
 
-
+<!--
 <form action="mail.php" method="POST">
 <p>Name</p> <input type="text" name="name">
 <p>Email</p> <input type="text" name="email">
@@ -20,3 +20,4 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
 <Location "/">
   AllowMethods GET POST OPTIONS
 </Location>
+-->
