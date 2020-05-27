@@ -15,7 +15,7 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
 </address>
 
 <div class="containerform">
-  <form method="post" action="mailto:sandra.m.revilla@gmail.com">
+  <form method="post" action="ContactForm.php">
 
     <label for="fname">Nombre</label>
     <input type="text" id="fname" name="firstname" placeholder="Tu nombre ...">
