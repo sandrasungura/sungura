@@ -23,7 +23,7 @@ title: Contacto
     <label for="subject">Tu mensaje</label>
     <textarea id="subject" name="subject" placeholder="Escribe tu mensaje..." style="height:200px"></textarea>
 
-    <input type="submit" value="Submit">
+    <input type="submit" value="Enviar">
 
   </form>
 </div>
