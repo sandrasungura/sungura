@@ -23,4 +23,4 @@ Sandra Muñoz
 ¿Por qué "Sungura"?
 </p>
 
-"Sungura" significa "conejo" en swahili. Cuando era pequeña tenía un conejo de mascota, y le cogí mucho cariño. Me parece que mi web personal tenía que tener una referencia en su honor, para mi fue importante. Todavía a día de hoy, lamentablemente se maltrata a muchos animales, juntos podemos cambiar el mundo. ¿Por qué en swahili? Hasta hace un año, formaba parte de una ONG de apoyo a niños/as con enfermedades y de concienciación social, llamada "Dakari", que significa "felicidad" en dicho idioma. Para mí significó mucho esta ONG, por ello también quería hacerle un guiño.
+"Sungura" significa "conejo" en swahili. Cuando era pequeña tenía un conejo de mascota, y le cogí mucho cariño. Me parece que mi web personal tenía que tener una referencia en su honor, para mi fue importante. ¿Por qué en swahili? Hasta hace un año, formaba parte de una ONG de apoyo a niños/as con enfermedades y de concienciación social, llamada "Dakari", que significa "felicidad" en dicho idioma. Para mí significó mucho esta ONG, por ello también quería hacerle un guiño.
