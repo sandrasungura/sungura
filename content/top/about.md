@@ -16,7 +16,7 @@ Sandra Muñoz
 
 
 <div style="align: center; margin-bottom:4%;">
-<img src="/images/sungura.gif" alt="Sandra" >
+<img src="/images/sungura.gif" alt="Sungura" >
 </div>
 
 <p style="font-size: 18px; color: rgb(104, 195, 206);">
