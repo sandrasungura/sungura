@@ -11,7 +11,6 @@ title: Contacto
 <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
 </address>
 
-{{ partial "header" . }}
 
 <!-- Contact Section -->
 
