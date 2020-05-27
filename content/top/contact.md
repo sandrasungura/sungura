@@ -7,9 +7,8 @@ title: Contacto
 <img src="/images/send140px.gif" alt="email" >
 </div>
 
-#### Contáctame :)
-Puedes escribirme vía <address class=".textcontacttitle"> <a href="mailto:sandra.m.revilla@gmail.com"> email </a>
-</address> o mandarme por aquí tu mensaje.
+### Contáctame :)
+Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.
 <!-- 
 <address class=".textcontacttitle">
 <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
@@ -24,6 +23,19 @@ Puedes escribirme vía <address class=".textcontacttitle"> <a href="mailto:sandr
 
     <label for="subject">Tu mensaje</label>
     <textarea id="subject" name="subject" placeholder="Escribe tu mensaje..." style="height:200px"></textarea>
+
+    <input type="submit" value="Enviar">
+
+  </form>
+</div>
+<div class="container">
+  <form method="post" action="mailto:sandra.m.revilla@gmail.com">
+
+    <label for="fname">Nombre</label>
+    <input type="text" id="fname" name="firstname" placeholder="Tu nombre ...">
+
+    <label for="subject">Mensaje</label>
+    <textarea id="subject" name="subject" placeholder="Escribe tu mensaje ..." style="height:200px"></textarea>
 
     <input type="submit" value="Enviar">
 
