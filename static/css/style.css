@@ -315,7 +315,7 @@ a:hover, a:active, a:focus {
   padding-bottom: 2px;
 }
 
-.textabout
+.textabout {
    color: rgb(68, 68, 68);
     font-size: 15px;
     font-weight: 300;
@@ -323,7 +323,7 @@ a:hover, a:active, a:focus {
     letter-spacing: 0.2px;
 }
 
-.textabouttitle
+.textabouttitle {
    color: rgb(68, 68, 68);
     font-size: 22px;
     font-weight: 300;
@@ -461,7 +461,7 @@ a:hover, a:active, a:focus {
 	margin-bottom: 10%;
 }
 
-.textcontact
+.textcontact {
    color: rgb(68, 68, 68);
     font-size: 15px;
     font-weight: 300;
@@ -469,9 +469,9 @@ a:hover, a:active, a:focus {
     letter-spacing: 0.2px;
 }
 
-.textcontacttitle
+.textcontacttitle {
    color: rgb(68, 68, 68);
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 300;
     line-height: 26px;
     letter-spacing: 0.2px;
