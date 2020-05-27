@@ -14,17 +14,10 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
 <a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
 </address>
 
-<div class="containerform">
-  <form method="post" action="ContactForm.php">
-    <label for="fname">Nombre</label>
-    <input name="name" type="text" class="form-control" placeholder="Your Name" required>
-    <br>
-    <label for="subject">Mensaje</label>
-    <input name="email" type="text" class="form-control" placeholder="Your Email" required>
-    <br>
-    <textarea name="message" class="form-control" placeholder="Your Email" row="6" required></textarea>
-    <br>
-    <input type="submit" class="form-control submit" value="Send Message">
-  </form>
-</div> 
 
+<form action="mail.php" method="POST">
+<p>Name</p> <input type="text" name="name">
+<p>Email</p> <input type="text" name="email">
+<p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+<input type="submit" value="Send"><input type="reset" value="Clear">
+</form>
