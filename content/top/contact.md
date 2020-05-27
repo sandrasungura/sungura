@@ -9,10 +9,6 @@ title: Contacto
 <p style="font-weight: medium; font-size: 18px; color: rgb(104, 195, 206);">
 Contáctame :)</p>
 Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.
-<!-- 
-<address class=".textcontacttitle">
-<a href="mailto:sandra.m.revilla@gmail.com">Contáctame :)</a>
-</address>
 
 
 <form action="mail.php" method="POST">
