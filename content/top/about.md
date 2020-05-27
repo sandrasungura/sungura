@@ -12,20 +12,16 @@ Sandra Muñoz
 
 ¡Hola! Soy diseñadora y animadora natural de Madrid. Estoy especializada en diseño gráfico y de interfaz, igualmente realizo animaciones y motion graphics. También manejo WordPress a nivel intermedio. Nací en Madrid en 1995, y mis pasatiempos son la pintura, los videojuegos, la fotografía y el deporte.
 
-Echa un vistazo a mis otras páginas:
-
-<a style="color: rgb(104, 195, 206)" href="https://www.linkedin.com/in/sandra-mu%C3%B1oz-revilla/"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional.
-
-<a style="color: rgb(104, 195, 206)" href="https://www.artstation.com/sungura"> Mi página de Artstation,</a> con otros de mis proyectos para videojuegos.
+Echa un vistazo a mis otras páginas: <a style="color: rgb(104, 195, 206)" href="https://www.linkedin.com/in/sandra-mu%C3%B1oz-revilla/"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional. Y <a style="color: rgb(104, 195, 206)" href="https://www.artstation.com/sungura"> mi página de Artstation,</a> con otros de mis proyectos para videojuegos.
 
 
 
 
-<div style="align: center; margin-bottom:4%; margin-top:10%;">
+<div style="align: center; margin-bottom:4%; margin-top:14%;">
 <img src="/images/sungura.gif" alt="Sungura" >
 </div>
 
-<p style="font-weight: medium; font-size: 18px; color: rgb(104, 195, 206);">
+<p style="font-weight: bold; font-size: 18px; color: rgb(104, 195, 206);">
 ¿Por qué "Sungura"?
 </p>
 
