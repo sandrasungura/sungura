@@ -512,7 +512,7 @@ input[type=submit] {
 
 
 /* Add a background color and some padding around the form */
-.container {
+.containerform {
   border-radius: 5px;
   padding: 20px;
 }
