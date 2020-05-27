@@ -6,11 +6,10 @@ draft: false
 showImage: false
 ---
 
-Diseño editorial para publicación científica a nivel internacional. El proyecto consitía en la realización de imágenes, tablas, maquetación y diseño de portada del escrito. 
-Programas utilizados: InDesign, PowerPoint, 3DSMax, Vray, Photoshop e Illustrator.
-
+Diseño editorial para publicación científica, "Experience at Archt",  a nivel internacional. El proyecto consitía en la realización de imágenes, tablas, maquetación y diseño de portada del escrito. 
 
 ![Portada](/images/Portada2.jpg "Diseño de portada")
+
 
 
 Bocetos realizados durante el proceso de producción.
