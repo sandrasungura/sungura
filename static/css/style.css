@@ -495,7 +495,7 @@ input[type=text], select, textarea {
 
 /* Style the submit button with a specific background color etc */
 input[type=submit] {
-  background-color: rgb(104, 195, 206);
+  background-color: #4CAF50;
   color: white;
   padding: 12px 20px;
   border: none;
@@ -503,15 +503,11 @@ input[type=submit] {
   cursor: pointer;
 }
 
-/* When moving the mouse over the submit button, add a darker green color */
-input[type=submit]:hover {
-  background-color: #45a049;
-}
 
 /* Add a background color and some padding around the form */
 .container {
   border-radius: 5px;
-  background-color: rgb(104, 195, 206);
+  background-color: #ffffff;
   padding: 20px;
 }
 
