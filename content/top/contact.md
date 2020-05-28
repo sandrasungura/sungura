@@ -21,6 +21,7 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
   AllowMethods GET POST OPTIONS
 </Location>
 -->
+
 <html>
 <head>
 <title>Contact Us Form</title>
@@ -53,7 +54,7 @@ Puedes escribirme vía <a href="mailto:sandra.m.revilla@gmail.com">email</a> o m
                     value="Send" />
                 <div id="statusMessage"> 
                         <?php
-                        if (! empty($message)) {
+                            if (! empty($message)) {
                             ?>
                             <p class='<?php echo $type; ?>Message'><?php echo $message; ?></p>
                         <?php
