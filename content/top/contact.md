@@ -11,12 +11,12 @@ Contáctame :)</p>
 <p style="font-size: 16px;">
 Puedes escribirme vía <a style="color: rgb(104, 195, 206); font-weight: bold" href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.</p>
 
-<div>
+
 <textarea id="myText">
     Tu mensaje
 </textarea>
 <button onclick="sendMail(); return false">Send</button>
-</div>
+
 
 <script>
   function sendMail() {
