@@ -13,6 +13,4 @@ Contact me :)</a>
 You can send me an <a style="color: rgb(92, 174, 184); font-weight: medium" href="mailto:sandra.m.revilla@gmail.com">email</a> or fill this contact form. </p>
 
 
-
-
 <script type="text/javascript" defer src="//www.123formbuilder.com/embed/5477594.js" data-role="form" data-default-width="650px"></script>
