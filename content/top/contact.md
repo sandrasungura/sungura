@@ -8,7 +8,8 @@ title: Contacto
 </div>
 <a style="font-weight: medium; font-size: 22px; color: rgb(104, 195, 206);" href="mailto:sandra.m.revilla@gmail.com">
 Contáctame :)</a>
-<p style="font-size: 16px;">
+
+<p style="font-size: 16px; margin-top: 4%; margin-bottom: 4%">
 Puedes escribirme vía <a style="color: rgb(92, 174, 184); font-weight: medium" href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.</p>
 
 
