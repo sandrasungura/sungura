@@ -12,7 +12,7 @@ Sandra Muñoz
 
 ¡Hola! Soy diseñadora y animadora natural de Madrid. Estoy especializada en diseño gráfico y de interfaz, igualmente realizo animaciones y motion graphics. También manejo WordPress a nivel intermedio. Nací en Madrid en 1995, y mis pasatiempos son la pintura, los videojuegos, la fotografía y el deporte.
 
-Echa un vistazo a mis otras páginas: <a style="color: rgb(32, 157, 216); font-weight: medium" href="https://www.linkedin.com/in/sandra-mu%C3%B1oz-revilla/"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional. Y <a style="color: rgb(32, 157, 216); font-weight: medium" href="https://www.artstation.com/sungura"> mi página de Artstation,</a> con otros de mis proyectos para videojuegos.
+Echa un vistazo a mis otras páginas: <a style="color: rgb(92, 174, 184); font-weight: medium" href="https://www.linkedin.com/in/sandra-mu%C3%B1oz-revilla/"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional. Y <a style="color: rgb(92, 174, 184); font-weight: medium" href="https://www.artstation.com/sungura"> mi página de Artstation,</a> con otros de mis proyectos para videojuegos.
 
 
 
