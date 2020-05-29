@@ -4,10 +4,10 @@
 	$message = $_POST [‘message’];
 
 
-$email_from = ‘sandra.m.revilla@gmail.com’;
+$email_from = ‘$visitor_email.’;
 $email_subject = “New contact form”;
 $email_body =  ”User Name: $name. \n”.
-		“User Email: $visitor_email.\n”.
+		“User Email: \n”.
 “User Message: $message.\n”.
 
 	$to =  “sandra.m.revilla@gmail.com”;
