@@ -11,6 +11,6 @@ Contáctame :)</a>
 <p style="font-size: 16px;">
 Puedes escribirme vía <a style="color: rgb(92, 174, 184); font-weight: medium" href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.</p>
 
-<!-- www.123formbuilder.com script begins here -->
+
 <script type="text/javascript" defer src="//www.123formbuilder.com/embed/5477303.js" data-role="form" data-default-width="650px"></script>
-<!-- www.123formbuilder.com script ends here --
+
