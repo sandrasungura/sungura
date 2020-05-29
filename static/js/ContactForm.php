@@ -4,7 +4,7 @@
 	$message = $_POST [‘message’];
 
 
-$email_from = "$visitor_email";
+$email_from = 'al264048@uji.es';
 $email_subject = “New contact form”;
 $email_body =  “User Name: $name. \n”.
 		“User Email: \n”.
@@ -14,5 +14,5 @@ $email_body =  “User Name: $name. \n”.
 	$headers =  “From: $email_from \r\n”;
 	$headers =  “Reply-To: $visitor_email \r\n”;
 	mail($to, $email_subject, $email_body, $headers);
-	header (“Location: contact.md”);
+	header (“Location: sungura/content/top/contact.md”);
 ?>
