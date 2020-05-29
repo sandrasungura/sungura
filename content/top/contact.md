@@ -13,5 +13,11 @@ Puedes escribirme vía <a style="color: rgb(104, 195, 206); font-weight: bold" h
     <script src="https://smtpjs.com/v3/smtp.js"></script>
     <script src="index.js"></script>
     <form method="post">
+	<label>Nombre</label>
+	<input type="text" name="name" placeholder="Tu nombre...">
+	<label>Email</label>
+	<input type="text" name="name" placeholder="Tu email...">
+	<label>Mensaje</label>
+	<input type="text" name="name" placeholder="Escribe tu mensaje...">
 	<input type="button" value="Send Email" onclick="sendEmail()"/>
 	</form> 
