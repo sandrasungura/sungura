@@ -11,7 +11,7 @@ Contáctame :)</p>
 <p style="font-size: 16px;">
 Puedes escribirme vía <a style="color: rgb(104, 195, 206); font-weight: bold" href="mailto:sandra.m.revilla@gmail.com">email</a> o mandarme por aquí tu mensaje.</p>
     <script src="https://smtpjs.com/v3/smtp.js"></script>
-    <script src="index.js"></script>
+    <script src="sungura/static/js/index.js"></script>
     <form method="post">
 	<label>Nombre</label>
 	<input type="text" name="name" placeholder="Tu nombre...">
