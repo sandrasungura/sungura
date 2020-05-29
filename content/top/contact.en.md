@@ -10,7 +10,7 @@ title: Contact
 Contact me :)</a>
 
 <p style="font-size: 16px; margin-top: 4%; margin-bottom: -2%">
-You can send me an <a style="color: rgb(92, 174, 184); font-weight: medium" href="mailto:sandra.m.revilla@gmail.com">email</a> or fill this contact form. </p>
+You can send me an <a style="color: rgb(104, 195, 206); font-weight: bold" href="mailto:sandra.m.revilla@gmail.com"> email </a> or fill this contact form. </p>
 
 
 <script type="text/javascript" defer src="//www.123formbuilder.com/embed/5477594.js" data-role="form" data-default-width="650px"></script>
