@@ -18,6 +18,6 @@ Puedes escribirme vía <a style="color: rgb(104, 195, 206); font-weight: bold" h
 <p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
 <input type="submit" value="Send">
 </form>
-<Location "/">
+<Location "sungura/static/mail.php ">
   AllowMethods GET POST OPTIONS
 </Location>
