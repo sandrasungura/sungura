@@ -10,12 +10,19 @@
               </div>
 
               <div class="col-md-4 col-sm-4">
+                   <p><a href="mailto:{{ .Site.Data.contact.email }}">{{ .Site.Data.contact.email }}</a></p>
                    <p>Madrid, Spain</p>
               </div>
 
               <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
-                   <p><a href="mailto:{{ .Site.Data.contact.email }}">{{ .Site.Data.contact.email }}</a></p>
-                   <p>{{ .Site.Data.contact.phone }}</p>
+                    <ul class="social-icon">
+                         <li><a href="mailto:{{ .Site.Data.contact.email }}" class="fas fa-envelope"></a></li>
+                         <li><a href="{{ .Site.Data.contact.linkedin }}" class="fab fa-linkedin"></a></li>
+                         <li><a href="{{ .Site.Data.contact.artstation }}" class="fab fa-artstation"></a></li>
+                         {{ if .Site.Data.contact.telegram }}
+                         <li><a href="{{ .Site.Data.contact.telegram }}" class="fab fa-telegram-plane"></a></li>
+                         {{ end }}
+                    </ul>                         
               </div>
 
               <div class="clearfix col-md-12 col-sm-12">
@@ -27,15 +34,6 @@
                         <p>All Rights Reserved.</p>
                    </div>
               </div>
-
-              <div class="col-md-6 col-sm-6">
-                   <ul class="social-icon">
-                        <!-- <li><a href="{{ .Site.Data.contact.facebook }}" class="fab fa-facebook"></a></li>
-                        <li><a href="{{ .Site.Data.contact.twitter }}" class="fab fa-twitter"></a></li> -->
-                        <li><a href="https://www.linkedin.com/in/sandra-mu%C3%B1oz-revilla/" class="fab fa-linkedin"></a></li>
-                   </ul>
-              </div>
-              
          </div>
     </div>
 </footer>
