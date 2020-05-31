@@ -26,5 +26,5 @@ Have a look to my other websites: <a style="color: rgb(92, 174, 184); font-weigh
 Why "Sungura"?
 </p>
 
-"Sungura" means "rabbit" in Swahili. When I was a little girl I had a pet rabbit, and I got very close to it. I wanted my personal website to allude to it in some way, for me it was important. Why in Swahili? Until a year ago, I was part of an NGO ("Dakari", which means "happiness" in that language) that worked helping sick children and creating social awareness. It meant a lot in my personal and human formation, and I wanted to wink at them. ;)
+"Sungura" means "rabbit" in Swahili. When I was a little girl I had a pet rabbit, and I got very close to it. I wanted my personal website to allude to it in some way, for me it was important. Why in Swahili? Until a year ago, I was part of an NGO ("Dakari", which means "happiness" in that language) that worked helping sick children and creating social awareness. It meant a lot in my personal and human formation, and I wanted to wink at them.
 
