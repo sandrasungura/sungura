@@ -7,7 +7,6 @@ showImage: false
 ---
 
 Editorial design for international scientific publication. The project consisted of making images, tables, layout and the cover design of the writing.
-Software: Indesign, Powerpoint, 3DSMax, Vray, Photoshop and Illustrator.
 
 
 ![Portada](/images/Portada2.jpg "Cover Design")
