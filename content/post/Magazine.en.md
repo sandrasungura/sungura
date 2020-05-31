@@ -6,7 +6,7 @@ draft: false
 showImage: false
 ---
 
-Editorial design and layout for a local food and ecological agriculture magazine. Programs used: Indesign and Photoshop.
+Editorial design and layout for a local food and ecological agriculture magazine.
 
 
 
