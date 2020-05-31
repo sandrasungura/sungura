@@ -7,7 +7,6 @@ showImage: false
 ---
 
 Animated lettering, 3D motion graphics project.
-Software: Cinema4d and Realflow.
 
 {{< vimeo 422022828 >}}
 
