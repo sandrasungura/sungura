@@ -6,7 +6,7 @@ draft: false
 showImage: false
 ---
 
-Diseño editorial y maquetación para una revista local de alimentación y agricultura ecológica. Programas utilizados: Indesign y Photoshop.
+Diseño editorial y maquetación para una revista local de alimentación y agricultura ecológica.
 
 
 
