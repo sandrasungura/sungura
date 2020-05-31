@@ -6,7 +6,7 @@ draft: false
 showImage: false
 ---
 
-Poster design dedicated to blur typography, created in 1992 by the great English designer and typographer Neville Brody. Personal project. Software: Photoshop and Illustrator.
+Poster design dedicated to blur typography, created in 1992 by the great English designer and typographer Neville Brody. Personal project.
 
 
 
