@@ -8,7 +8,7 @@ title: About me
 </div>
 
 <h1 style="font-weight: medium; font-size: 22px; color: rgb(104, 195, 206);">
-Sandra Muñoz
+Sandra Muñoz Revilla
 </h1>
 
 Hi! I’m a designer and animator from Madrid. I specialize in graphic design and interface, I also make animations and motion graphics. I also know how to handle myself with Wordpress at intermediate level. I was born in Madrid 25 years ago, and my hobbies are painting, video games, photography and sport.
