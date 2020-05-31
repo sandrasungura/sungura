@@ -6,7 +6,7 @@ draft: false
 showImage: false
 ---
 
-Ilustración realizada para la empresa E-lixir. Este proyecto surje de la necesitad de una imagen que reflejase el trabajo que realizan en la empresa, para usarlas en redes sociales y páginas web. Programas utilizados: Illustrator.
+Ilustración realizada para la empresa E-lixir. Este proyecto surje de la necesitad de una imagen que reflejase el trabajo que realizan en la empresa, para usarlas en redes sociales y páginas web.
 
 ![Ilustracion1](/images/Ilustracion1.jpg "Ilustracion1")
 
