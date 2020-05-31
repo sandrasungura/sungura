@@ -9,7 +9,7 @@ title: Contact
 <a style="font-weight: medium; font-size: 22px; color: rgb(104, 195, 206);" href="mailto:sandra.m.revilla@gmail.com">
 Contact me :)</a>
 
-<p style="font-size: 16px; margin-top: 4%; margin-bottom: -2%">
+<p style="font-size: 16px; margin-top: 4%;">
 You can send me an <a style="color: rgb(104, 195, 206); font-weight: bold" href="mailto:sandra.m.revilla@gmail.com"> email </a> or fill this contact form. </p>
 
 
