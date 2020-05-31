@@ -6,7 +6,7 @@ draft: false
 showImage: false
 ---
 
-Illustration made for the company E-lixir. This project arises from the need for an image that reflects the work they do in the company, to use them in social networks and web pages. Software: Illustrator.
+Illustration made for the company E-lixir. This project arises from the need for an image that reflects the work they do in the company, to use them in social networks and web pages. 
 
 ![Illustration1](/images/Ilustracion1.jpg "Illustration1")
 
