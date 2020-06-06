@@ -1,6 +1,6 @@
 ---
 title: Motion graphics 2D
-image: Portada_Motion.jpg
+image: BatidoGif480px.gif
 date: "2020-04-14"
 draft: false
 showImage: false
