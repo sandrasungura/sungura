@@ -19,7 +19,7 @@ Have a look to my other websites: <a style="color: rgb(92, 174, 184); font-weigh
 
 
 <div style="align: center; margin-bottom:4%; margin-top:14%;">
-<img src="/images/sungura.gif" alt="Sungura" >
+<img src="/images/sungura144.gif" alt="Sungura" >
 </div>
 
 <p style="font-weight: bold; font-size: 22px; color: rgb(104, 195, 206); margin-bottom: 4%">
