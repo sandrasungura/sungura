@@ -14,4 +14,9 @@ Poster design dedicated to blur typography, created in 1992 by the great English
 
 
 
+Sketches made during the production process.
+![Sketches](/images/SketchesBlur.png "Sketches")
+
+
+
 Thanks for visiting my portfolio!
