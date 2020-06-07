@@ -14,5 +14,11 @@ Diseño de cartel dedicado a la tipografía blur, creada en 1992 por el gran dis
 ![Cartel](/images/Portada_Cartel2.jpg "Cartel Blur")
 
 
+Bocetos realizados durante el proceso de diseño.
+
+![Bocetos](/images/SketchesBlur.png "Bocetos")
+
+
+
 
 ¡Gracias por pasarte por mi proyecto!
