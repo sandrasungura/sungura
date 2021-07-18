@@ -3,7 +3,7 @@ type: about
 title: Sobre mí
 ---
 <div style="align: center; margin-bottom:4%;">
-<img src="/images/yo.png" alt="Sandra" >
+<img src="/images/Sandra.png" alt="Sandra" >
 </div>
 
 <h1 style="font-weight: medium; font-size: 22px; color: rgb(104, 195, 206);">
