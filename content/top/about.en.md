@@ -11,7 +11,7 @@ title: About me
 Sandra Muñoz Revilla
 </h1>
 
-Hi! I’m a designer and animator from Madrid. I specialize in graphic design and interface, I also make animations and motion graphics. I also know how to handle myself with Wordpress at intermediate level. I was born in Madrid in 1995 and my hobbies are painting, video games, photography and sport.
+Hi! I’m UI/UX artist. I specialize in interface for videogames, I also make animations and motion graphics. I know how to handle myself with Unreal Engine at intermediate level. As well, I am studying a master of technical art in UE to make sure the interface ends up perfect in game. I was born in Madrid in 1995 and my hobbies are playing video games, painting, running and playing with my cat.
 
 Have a look to my other websites: <a style="color: rgb(92, 174, 184); font-weight: medium" href="https://www.linkedin.com/in/sandra-munoz-revilla"> My Linkedin,</a> where you can find my professional trajectory. Y <a style="color: rgb(92, 174, 184); font-weight: medium" href="https://www.artstation.com/sungura"> and my Artstation,</a> with my other projects for videogames.
 
