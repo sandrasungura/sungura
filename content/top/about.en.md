@@ -13,7 +13,7 @@ Sandra Muñoz Revilla
 
 Hi! I’m UI/UX artist. I specialize in interface for videogames, I also make animations and motion graphics. I know how to handle myself with Unreal Engine at intermediate level. As well, I am studying a master of technical art in UE to make sure the interface ends up perfect in game. I was born in Madrid in 1995 and my hobbies are playing video games, painting, running and playing with my cats.
 
-Have a look to my other websites: <a style="color: rgb(104, 195, 206); font-weight: 600" href="https://www.linkedin.com/in/sandra-munoz-revilla"> My Linkedin,</a> where you can find my professional trajectory. <a style="color: rgb(104, 195, 206); font-weight: 600" href="https://www.artstation.com/sungura"> And my Artstation,</a> with my other projects for videogames.
+Have a look to my other websites: <a style="color: rgb(104, 195, 206); font-weight: 400" href="https://www.linkedin.com/in/sandra-munoz-revilla"> My Linkedin,</a> where you can find my professional trajectory. <a style="color: rgb(104, 195, 206); font-weight: 400" href="https://www.artstation.com/sungura"> And my Artstation,</a> with my other projects for videogames.
 
 
 
