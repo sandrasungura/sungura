@@ -12,7 +12,7 @@ Sandra Muñoz Revilla
 
 ¡Hola! Soy diseñadora UI/UX natural de Madrid. Estoy especializada en diseño UI/UX para videojuegos, igualmente realizo animaciones y motion graphics. También manejo Unreal Engine a nivel intermedio. Nací en Madrid en 1995 y mis pasatiempos son jugar a videojuegos, pintar, salir a correr y jugar con mis gatos.
 
-Echa un vistazo a mis otras páginas: <a style="color: rgb(92, 174, 184); font-weight: semibold" href="https://www.linkedin.com/in/sandra-munoz-revilla"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional. Y <a style="color: rgb(92, 174, 184); font-weight: semibold" href="https://www.artstation.com/sungura"> mi página de Artstation,</a> con mis proyectos para videojuegos.
+Echa un vistazo a mis otras páginas: <a style="color: rgb(104, 195, 206); font-weight: semibold" href="https://www.linkedin.com/in/sandra-munoz-revilla"> Mi Linkedin,</a> donde encontrarás mi trayectoria profesional. Y <a style="color: rgb(104, 195, 206); font-weight: semibold" href="https://www.artstation.com/sungura"> mi página de Artstation,</a> con mis proyectos para videojuegos.
 
 
 
