@@ -6,7 +6,7 @@ title: Contact
 <div style="align: center; margin-bottom:4%;">
 <img src="/images/send140px.gif" alt="email" >
 </div>
-<h2> <a style="color: rgb(104, 195, 206); font-weight: 400;" href="mailto:sandra.m.revilla@gmail.com">
+<h2> <a style="font-size: 22px; color: rgb(104, 195, 206); font-weight: 400;" href="mailto:sandra.m.revilla@gmail.com">
 Contact me :)</a></h2>
 
 <p style="font-size: 16px; margin-top: 4%;">
